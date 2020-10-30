@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/agora-antiquities/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/agora-antiquities/static/js/main.976a45d4.chunk.js",
+    "main.js.map": "/agora-antiquities/static/js/main.976a45d4.chunk.js.map",
+    "runtime-main.js": "/agora-antiquities/static/js/runtime-main.c812f63a.js",
+    "runtime-main.js.map": "/agora-antiquities/static/js/runtime-main.c812f63a.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/agora-antiquities/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.3499c1d1.chunk.js": "/agora-antiquities/static/js/2.3499c1d1.chunk.js",
+    "static/js/2.3499c1d1.chunk.js.map": "/agora-antiquities/static/js/2.3499c1d1.chunk.js.map",
+    "static/js/3.05bb0a62.chunk.js": "/agora-antiquities/static/js/3.05bb0a62.chunk.js",
+    "static/js/3.05bb0a62.chunk.js.map": "/agora-antiquities/static/js/3.05bb0a62.chunk.js.map",
+    "index.html": "/agora-antiquities/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/agora-antiquities/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.ab7136cd.chunk.css.map": "/agora-antiquities/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.3499c1d1.chunk.js.LICENSE.txt": "/agora-antiquities/static/js/2.3499c1d1.chunk.js.LICENSE.txt",
+    "static/media/agora.926e561a.jpg": "/agora-antiquities/static/media/agora.926e561a.jpg",
+    "static/media/ancient2.33fe28d1.JPG": "/agora-antiquities/static/media/ancient2.33fe28d1.JPG",
+    "static/media/frontpageCutout.8aa262d9.png": "/agora-antiquities/static/media/frontpageCutout.8aa262d9.png",
+    "static/media/frontpageCutout2.963011aa.png": "/agora-antiquities/static/media/frontpageCutout2.963011aa.png",
+    "static/media/frontpageCutout3.cc108314.png": "/agora-antiquities/static/media/frontpageCutout3.cc108314.png",
+    "static/media/logo.103b5fa1.svg": "/agora-antiquities/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c812f63a.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.3499c1d1.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.976a45d4.chunk.js"
+  ]
+}
