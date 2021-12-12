@@ -9,9 +9,11 @@ const Home = () => {
     return (
     <Container maxWidth="lg" style={{textAlign: 'center', color: 'white', height: '100%', padding: '20px', fontFamily: 'Parisienne'}}>
         <h1 style={{fontSize:'6rem'}}><img src={amph} style={{padding:'40px', width:'15%'}}/>Agora Antiquities<img src={amph} style={{padding:'40px', width:'15%'}}/></h1> 
-        <img src={centImg} style={{width:'30%', height: '20%', display: "flex"}}/>
-        <img src={centImg2} style={{width:'30%', height: '25%', display: "flex"}}/>
-        <img src={centImg3} style={{width:'30%', height: '20%', display: "flex"}}/>
+        <div id="image-container">
+          <img src={centImg} style={{width:'30%', height: '20%'}}/>
+          <img src={centImg2} style={{width:'30%', height: '25%'}}/>
+          <img src={centImg3} style={{width:'30%', height: '20%'}}/>
+        </div>
         <br></br>
         <br></br>
         <br></br>
@@ -21,12 +23,8 @@ const Home = () => {
         <br></br>
         <br></br>
         <br></br>
-        <h2>Authenticity Unconditionally Guaranteed - Shop with Confidence!</h2>
         <br></br>
         <br></br>
-        <br></br>
-        <br></br>
-        <h2>$20 Shipping Worldwide</h2>
         <br></br>
         <br></br>
         <br></br>
